@@ -1,0 +1,25 @@
+{
+  "name": "receitas-repositorio",
+  "version": "1.0.0",
+  "description": "repositorio de receitas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianoluzme/receitas-repositorio.git"
+  },
+  "keywords": [
+    "Receitas"
+  ],
+  "author": "Luciano Gonaçalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucianoluzme/receitas-repositorio/issues"
+  },
+  "homepage": "https://github.com/lucianoluzme/receitas-repositorio#readme",
+  "devDependencies": {
+    "webpack": "^5.73.0"
+  }
+}
